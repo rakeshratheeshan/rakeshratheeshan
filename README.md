@@ -36,9 +36,8 @@ Electronics and Telecommunication Engineering undergraduate at the University of
 
 ## 📫 Reach me
 
-- Email: your.email@example.com
-- LinkedIn: [linkedin.com/in/yourprofile](#)
+- Email: rakesh.arulraj@gmail.com
+- LinkedIn: [linkedin.com/in/rakesh-ratheeshan](https://www.linkedin.com/in/rakesh-ratheeshan-b45967281/)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
