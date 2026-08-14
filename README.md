@@ -2,8 +2,8 @@
 
 Electronics and Telecommunication Engineering undergraduate at the University of Moratuwa, focused on digital systems design, embedded systems, and power electronics. I like building things from first principles — HDL up from gate level, control loops from the math, PCBs from the schematic.
 
-🔭 Currently building a 16-bit single-bus CPU in SystemVerilog
-🌱 Learning: computer architecture internals, verification methodology, PCB designing
+🔭 Currently building a 16-bit single-bus CPU in SystemVerilog.
+🌱 Learning: computer architecture internals, verification methodology, PCB designing.
 💬 Ask me about: FPGA/HDL design, power electronics (inverters, gate drivers), embedded systems.
 
 ---
